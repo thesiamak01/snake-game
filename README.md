@@ -1,5 +1,7 @@
 # Snake Game
 
+![Banner](https://raw.githubusercontent.com/thesiamak01/snake-game/refs/heads/main/cover.png)
+
 A simple and fun Snake game built using HTML5 Canvas and JavaScript. The game is available in Persian and features smooth animations, obstacles, and a high-score tracking system.
 
 ## Features
