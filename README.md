@@ -50,4 +50,4 @@ A simple and fun Snake game built using HTML5 Canvas and JavaScript. The game is
 This project is open-source and available under the MIT License.
 
 ## Author
-Created by **Your Name**. Feel free to contribute or improve the game!
+Created by **Siamak YOUSEFI**. Feel free to contribute or improve the game!
